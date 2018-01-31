@@ -27,3 +27,10 @@ When you're finished, save the project and close Unity.
 Changes you've made are automatically monitored by the GitHub client. Type in a short summary of the changes you've made, then
 click commit to Initial-Commit to push those changes to the branch. After a few minutes, your changes will be available for everyone
 to see and work on.
+
+Things to keep in mind while using GIT:
+Make sure you're working in the Initial-Commit branch, not master.
+Always sync before you open the project in Unity to make sure you're up-to-date. Otherwise, you'll get merge errors and may have to undo all your work.
+Ask questions in the Discord. We're all complete beginners to this.
+
+We may end up using something else in the end. C'est le vie.
