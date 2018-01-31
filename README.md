@@ -24,4 +24,6 @@ Open Scene 1 in the Assets folder. Feel free to play around, add objects or more
 
 When you're finished, save the project and close Unity.
 
-Changes you've made are automatically monitored by the GitHub client.  
+Changes you've made are automatically monitored by the GitHub client. Type in a short summary of the changes you've made, then
+click commit to Initial-Commit to push those changes to the branch. After a few minutes, your changes will be available for everyone
+to see and work on.
