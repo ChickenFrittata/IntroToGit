@@ -14,7 +14,7 @@ Open GitHub for Desktop and connect it with your GitHub account.
 
 Click the + button and "clone" the IntroToGit repository under the ChickenFrittata organization. Save it in the location you want to save your Unity Projects.
 
-Click the dropdown that says "master ▼" and switch to the "Initial-Commit" branch. Then click the Sync button. This will move files from GitHub to your computer.
+Click the dropdown that says "master ▼" and switch to the "Working" branch. Then click the Sync button. This will move files from GitHub to your computer.
 
 
 Open Unity, and under "Open", navigate to the directory you specified in the last step.
@@ -25,11 +25,11 @@ Open Scene 1 in the Assets folder. Feel free to play around, add objects or more
 When you're finished, save the project and close Unity.
 
 Changes you've made are automatically monitored by the GitHub client. Type in a short summary of the changes you've made, then
-click commit to Initial-Commit to push those changes to the branch. After a few minutes, your changes will be available for everyone
+click commit to "Working" to push those changes to the branch. After a few minutes, your changes will be available for everyone
 to see and work on.
 
 Things to keep in mind while using GIT:
-Make sure you're working in the Initial-Commit branch, not master.
+Make sure you're working in the "Working" branch, not master.
 Always sync before you open the project in Unity to make sure you're up-to-date. Otherwise, you'll get merge errors and may have to undo all your work.
 Ask questions in the Discord. We're all complete beginners to this.
 
